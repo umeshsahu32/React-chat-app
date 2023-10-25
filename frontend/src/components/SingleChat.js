@@ -19,7 +19,8 @@ import axios from "axios";
 import ScrollableChat from "./ScrollableChat";
 import io from "socket.io-client";
 
-const ENDPOINTS = "http://localhost:5000";
+// const ENDPOINTS = "http://localhost:5000";
+const ENDPOINTS = "https://react-chat-app-yvdj.onrender.com";
 
 let socket, selectedChatCompare;
 
