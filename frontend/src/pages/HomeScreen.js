@@ -37,7 +37,7 @@ const HomeScreen = () => {
         borderRadius="lg"
         borderWidth="1px"
       >
-        <Text fontSize="4xl" fontFamily="Work sans" ml="12rem">
+        <Text fontSize="4xl" fontFamily="Work sans">
           My Chat
         </Text>
       </Box>
